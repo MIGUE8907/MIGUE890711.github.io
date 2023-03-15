@@ -1,7 +1,7 @@
 Esta es la historia de Miguel 
 
 Nacio en Colombia y hoy vamos a contar su historia 
-Migue tiene 33 años y esta estudiando con platzi
+Migue tiene 34 años y esta estudiando con platzi
 
 Empezemos
 
@@ -12,3 +12,5 @@ Esta modificacion la estoy haciendo solo para probar
 voy hacer otra modificacion 
 
 Esta vez elimine esta linea y la sobreescribi
+
+En esta ocacion voy a agregar esta linea y cambiar la edad
